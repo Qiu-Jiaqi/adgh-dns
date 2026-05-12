@@ -5850,9 +5850,6 @@ h3://8.8.4.4/dns-query
 [/120sun.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/120top.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/120x.net/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -13746,9 +13743,6 @@ h3://8.8.4.4/dns-query
 [/365sf89.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/365shequ.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/365sky.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -15439,9 +15433,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/4008885818.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/4008cn.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/4009.com/]h3://223.6.6.6/dns-query
@@ -23566,9 +23557,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/695828.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/695ljg.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/696.cool/]h3://223.6.6.6/dns-query
@@ -32689,9 +32677,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/adminxy.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/admobclick.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/admobile.mobi/]h3://223.6.6.6/dns-query
@@ -46962,9 +46947,6 @@ h3://8.8.4.4/dns-query
 [/bdkyr.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/bdlcqjw.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/bdmozon.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -48934,9 +48916,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/bhdxfsyy.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/bhdyjs.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/bhecard.com/]h3://223.6.6.6/dns-query
@@ -80580,9 +80559,6 @@ h3://8.8.4.4/dns-query
 [/cs53.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/cs6zhong.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/csaimall.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -111522,9 +111498,6 @@ h3://8.8.4.4/dns-query
 [/fxrcw.net/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/fxsh.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/fxsou.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -117376,9 +117349,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/gishai.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/gispark.org/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/gissaas.com/]h3://223.6.6.6/dns-query
@@ -127299,9 +127269,6 @@ h3://8.8.4.4/dns-query
 [/gxrunteng.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/gxrxdt.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/gxrxsy.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -128644,9 +128611,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/gxyx168.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/gxyx1688.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/gxyxjt.com/]h3://223.6.6.6/dns-query
@@ -133666,9 +133630,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/haokuaiya.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/haolaba.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/haolangtech.com/]h3://223.6.6.6/dns-query
@@ -138958,9 +138919,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/hh010.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/hh04050aoik.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/hh6666.com/]h3://223.6.6.6/dns-query
@@ -172065,9 +172023,6 @@ h3://8.8.4.4/dns-query
 [/juaiyou.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/juanbao.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/juandou.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -202161,9 +202116,6 @@ h3://8.8.4.4/dns-query
 [/mjia.cc/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/mjjcn.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/mjjq.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -207880,9 +207832,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/natbbs.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/natchecker.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/natergy.com/]h3://223.6.6.6/dns-query
@@ -214660,9 +214609,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/ntfan.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/ntfegd.xyz/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/ntflk.com/]h3://223.6.6.6/dns-query
@@ -234087,9 +234033,6 @@ h3://8.8.4.4/dns-query
 [/qzyonyou.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/qzyuchao.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/qzyun.net/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -240967,9 +240910,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/sccea.net/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/sccens.net/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/sccia8888.com/]h3://223.6.6.6/dns-query
@@ -256603,9 +256543,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/songshudiandian.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/songshushuo.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/songsongruanwen.com/]h3://223.6.6.6/dns-query
@@ -279630,9 +279567,6 @@ h3://8.8.4.4/dns-query
 [/uedbet.bet/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/uedbox.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/uedna.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -283302,9 +283236,6 @@ h3://8.8.4.4/dns-query
 [/vi1zen.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/vi21.net/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/vi586.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -286939,9 +286870,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/wanhunet.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/wanimal1983.org/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/wanjia.org/]h3://223.6.6.6/dns-query
@@ -303450,9 +303378,6 @@ h3://8.8.4.4/dns-query
 [/xinbiaocha.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/xinbiaochijiaoyu.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/xinbqg.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -307129,9 +307054,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/xn--b0t462i.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/xn--b0tn0sxy3ayhj.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/xn--b0tp7p3met2a.com/]h3://223.6.6.6/dns-query
@@ -314835,9 +314757,6 @@ h3://8.8.4.4/dns-query
 [/yhachina.com/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
-[/yhadmob.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
 [/yham.net/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
@@ -321829,9 +321748,6 @@ h3://8.8.4.4/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/ytbfilm.com/]h3://223.6.6.6/dns-query
- h3://2400:3200::1/dns-query
- https://doh.pub/dns-query
-[/ytbt.cc/]h3://223.6.6.6/dns-query
  h3://2400:3200::1/dns-query
  https://doh.pub/dns-query
 [/ytcables.com/]h3://223.6.6.6/dns-query
